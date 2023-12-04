@@ -16,3 +16,9 @@ I create this extension because:
 - Link to resources in `dist/` to Safari Extension App.
 - Go to Safari Extension App > Product > Run to activate the extension. You will need to allow Safari to load unsigned extension.
 
+## Privacy Policy
+No data of any kind is collected, shared.
+
+The extension itself requires 2 permissions:
+- activeTab: to read the current tab url (so that you can save to Linkding)
+- storage: to store your linkding server address on your browser **local** storage (so you don't have to configure it every single time)
