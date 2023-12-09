@@ -16,6 +16,10 @@ I create this extension because:
 - Link to resources in `dist/` to Safari Extension App.
 - Go to Safari Extension App > Product > Run to activate the extension. You will need to allow Safari to load unsigned extension.
 
+or you could get the pre-packaged version from App Store for a fee to help cover the Developer Account fee
+
+<a href="https://apps.apple.com/us/app/linkding-web-extension/id6473717543?mt=12&amp;itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83&amp;releaseDate=1701820800" alt="Download on the Mac App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 ## Privacy Policy
 No data of any kind is collected, shared.
 
